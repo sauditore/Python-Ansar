@@ -4,3 +4,5 @@ python:
 sudo: false
 install:
     pip install suds
+script:
+    - echo 'testing'
