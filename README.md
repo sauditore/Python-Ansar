@@ -1,4 +1,4 @@
-# [![Build Status](https://travis-ci.org/sauditore/Python-Ansar.svg?branch=master)](https://travis-ci.org/sauditore/Python-Ansar) PyAnsar
+# PyAnsar
 Python Bank Ansar payment API.
 
 ## Supported Methods:
